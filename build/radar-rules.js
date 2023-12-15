@@ -5354,7 +5354,7 @@
         source:[ "/kx" ],
         target:"/fx678/kx" } ] },
   "fxiaoke.com":{ _name:"纷享销客 CRM",
-    ".":[ { title:"全部文章 - 纷享销客 CRM",
+    ".":[ { title:"全部文章",
         docs:"https://docs.rsshub.app/routes/blog#fen-xiang-xiao-ke",
         source:[ "/*" ],
         target:"/fxiaoke/crm/news" },
