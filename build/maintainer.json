@@ -2980,6 +2980,9 @@
         "nczitzk"
     ],
     "/gov/ndrc/xwdt/:caty?": [],
+    "/gov/nea/sjzz/ghs": [
+        "nczitzk"
+    ],
     "/gov/news/:uid": [
         "EsuRt"
     ],
@@ -3713,6 +3716,9 @@
         "nczitzk"
     ],
     "/imaijia/category/:category": [],
+    "/imiker/ask/jinghua": [
+        "nczitzk"
+    ],
     "/imuseum/:city/:type?": [],
     "/independent/ps5-stock-uk": [
         "DIYgod"
@@ -4367,6 +4373,9 @@
     ],
     "/liequtv/room/:id": [],
     "/lifetimes/:category?": [],
+    "/lightnovel/:keywords/:security_key?": [
+        "nightmare-mio"
+    ],
     "/line/today/:edition/publisher/:id": [
         "TonyRL"
     ],
@@ -5512,7 +5521,8 @@
     "/piapro/public/:type/:tag?/:category?": [],
     "/piapro/user/:pid": [],
     "/picnob/user/:id": [
-        "TonyRL"
+        "TonyRL",
+        "micheal-death"
     ],
     "/picuki/profile/:id/:functionalFlag?": [
         "hoilc",
@@ -5872,7 +5882,9 @@
     "/quantamagazine/archive": [],
     "/queshu/book/:bookid": [],
     "/queshu/sale": [],
-    "/questmobile/report/:category?/:label?": [],
+    "/questmobile/report/:industry?/:label?": [
+        "nczitzk"
+    ],
     "/quicker/qa/:category?/:state?": [
         "Cesaryuan",
         "nczitzk"
@@ -5933,6 +5945,9 @@
         "WhiteWorld",
         "nczitzk",
         "Fatpandac"
+    ],
+    "/readhub/daily": [
+        "nczitzk"
     ],
     "/remnote/changelog": [
         "TonyRL"
@@ -7763,6 +7778,9 @@
     ],
     "/xposed/module/:mod": [],
     "/xsijishe/forum/:fid": [
+        "akynazh"
+    ],
+    "/xsijishe/rank/:type": [
         "akynazh"
     ],
     "/xuangubao/subject/:subject_id": [],
