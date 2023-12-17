@@ -2111,6 +2111,9 @@
     "/dut/eda/:category?": [
         "nczitzk"
     ],
+    "/dut/fldpj/:category?": [
+        "ueiu"
+    ],
     "/dut/gs/:category?": [
         "nczitzk"
     ],
@@ -2809,6 +2812,12 @@
     "/gov/caict/qwsj": [],
     "/gov/ccdi/:path+": [
         "bigfei"
+    ],
+    "/gov/chinamine-safety/xw/:category?": [
+        "nczitzk"
+    ],
+    "/gov/chinamine-safety/zfxxgk/:category?": [
+        "nczitzk"
     ],
     "/gov/chinatax/latest": [
         "nczitzk",
@@ -6560,6 +6569,9 @@
     "/sspai/topics": [
         "SunShinenny"
     ],
+    "/sspu/jwc/:listId": [
+        "TonyRL"
+    ],
     "/ssydt/article/:id?": [],
     "/startuplatte/:category?": [
         "nczitzk"
@@ -8126,6 +8138,12 @@
         "LogicJake"
     ],
     "/zhihu/xhu/collection/:id": [
+        "JimenezLi"
+    ],
+    "/zhihu/xhu/people/activities/:hexId": [
+        "JimenezLi"
+    ],
+    "/zhihu/xhu/people/answers/:hexId": [
         "JimenezLi"
     ],
     "/zhihu/xhu/question/:questionId/:sortBy?": [
